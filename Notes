@@ -1,0 +1,3 @@
+g++ .\10_Patterns\2nd_countingSquare.cpp
+PS C:\Users\jaisw\OneDrive\Desktop\DSA> .\a.exe
+To find the last bit of the binary number we AND it with 1.

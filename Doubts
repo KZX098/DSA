@@ -1,0 +1,12 @@
+63--wrong output
+61-7,12
+56---10--how to input pos
+56--9--rev
+56--6--wrong output
+48-wrong output(returning longest word size-1)(rev)
+45-wrong output
+42--why an extra if condition needs to be applied eeven if condition is checked in while(otherwise it is printing an extradigit after spiral )
+38--error in brute force approach
+35
+36
+37
